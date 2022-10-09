@@ -9,7 +9,7 @@ If you're watching the videos, use the `main` branch to follow along. To see the
 1. Clone the repo to you local system
 
 ```bash
-git clone git@github.com:ryancharris/nftix-demo-ui.git
+git clone https://github.com/mvskiren/NFT_Ticketing-App.git
 ```
 
 2. Open the directory
