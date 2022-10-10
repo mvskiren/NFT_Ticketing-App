@@ -216,7 +216,7 @@ function App() {
               }
             />
 
-            <Route path="/wallet" element={<Wallet />} />
+            <Route path="/wallet" element={<Wallet address={address} />} />
           </Routes>
         </Flex>
       </Page>
